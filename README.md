@@ -49,8 +49,4 @@ python main.py
 - Create a new branch (`feature-xyz`)
 - Submit a pull request
 
-8. License
-- MIT License (or whichever you choose)
 
-
-Would you like me to draft a **ready-to-use README.md file** with Markdown formatting that you can directly copy into your GitHub repo?
